@@ -10,12 +10,13 @@ I’m an aspiring cybersecurity professional and a Bachelor of Business Administ
 * 🖥️  See my portfolio at https://www.linkedin.com/in/oluwatamilore-longe-485932266/ 
 * ✉️  You can contact me at [chrislonge15@gmail.com](mailto:chrislonge15@gmail.com)
 * 🧠  I'm currently learning Security+
-* 💬  Ask me about Big fan of Anime in General. LOVE ONE PIECE <img width="498" height="281" alt="Sanjigif" src="https://github.com/user-attachments/assets/18e7b3c2-a105-45d8-a7a2-9d3cac24275c" />
+* 💬  Ask me about Big fan of Anime in General. LOVE ONE PIECE 
 
 
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" alt="Lua" title="Lua" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored-dark.svg" alt="Illustrator" title="Illustrator" width="36" height="36" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored-dark.svg" alt="Photoshop" title="Photoshop" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
 </p>
+<img width="498" height="281" alt="Sanjigif" src="https://github.com/user-attachments/assets/18e7b3c2-a105-45d8-a7a2-9d3cac24275c" />
 
 ## Skills
 
