@@ -6,8 +6,8 @@ SOC Analyst and Security Analyst
 
 I’m an aspiring cybersecurity professional and a Bachelor of Business Administration in Cybersecurity graduate with a strong foundation in security concepts, operating systems, programming, and technical support. My experience has given me the opportunity to work directly with users, solve technology related problems, and develop the communication skills that are essential in both cybersecurity and IT environments. I'm especially interested in SOC Analyst, Security Analyst, and IT support roles because they combine two things I genuinely enjoy: solving problems and helping people through technology. My goal is to continue building my technical expertise while contributing to a team that values collaboration, continuous learning, and strong security practices.
 
-* 🌍  I'm based in Hosuton Texas
-* 🖥️  See my portfolio at [Linkedin](http://https://www.linkedin.com/in/oluwatamilore-longe-485932266/)
+* 🌍  I'm based in Houston Texas
+* 🖥️  See my portfolio at https://www.linkedin.com/in/oluwatamilore-longe-485932266/ 
 * ✉️  You can contact me at [chrislonge15@gmail.com](mailto:chrislonge15@gmail.com)
 * 🧠  I'm currently learning Security+
 * 💬  Ask me about Big fan of Anime in General. LOVE ONE PIECE
