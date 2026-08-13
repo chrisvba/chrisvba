@@ -21,6 +21,7 @@ I’m an aspiring cybersecurity professional and a Bachelor of Business Administ
 | **Skill** | **Associated Project** |
 | --- | --- |
 | Network Security Assessment and System Hardening | [Network Security Assessment & System Hardening Lab](https://github.com/chrisvba/Metasploitable-2-Attack-Surface-and-Device-Security-Lab) |
+| Firewall Configuration and Network Defense | [Firewall Configuration & Intrusion Prevention Lab](https://github.com/chrisvba/Firewall-Configuration-and-Network-Defense) |
 
 ### Socials
 
